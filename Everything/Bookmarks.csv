@@ -1,3 +1,4 @@
 Name,Case,Whole Word,Path,Diacritic,Regex,Sort,Descending,Filter,Search,Index,File List,Host,Link Type,Macro,Key,View
 "为知笔记",0,0,0,0,0,"Date Run",1,"EXECUTABLE","",0,"","",1,,,0
 "微信",0,0,0,0,0,"Date Run",1,"EXECUTABLE","wechat",0,"","",1,,,0
+"TIM",0,0,0,0,0,"Date Run",1,"EXECUTABLE","TIM",0,"","",1,,,0
