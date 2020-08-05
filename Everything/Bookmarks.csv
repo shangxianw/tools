@@ -2,3 +2,4 @@ Name,Case,Whole Word,Path,Diacritic,Regex,Sort,Descending,Filter,Search,Index,Fi
 "为知笔记",0,0,0,0,0,"Date Run",1,"EXECUTABLE","",0,"","",1,,,0
 "微信",0,0,0,0,0,"Date Run",1,"EXECUTABLE","wechat",0,"","",1,,,0
 "TIM",0,0,0,0,0,"Date Run",1,"EXECUTABLE","TIM",0,"","",1,,,0
+"QQmusic",0,0,0,0,0,"Date Run",1,"EVERYTHING","QQmusic",0,"","",1,,,0
